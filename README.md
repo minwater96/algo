@@ -8,4 +8,6 @@
 
 ## programers
 
--
+- [짝수의합](programmers/짝수의합/sol.py)
+- [배열의평균값](programmers/배열의평균값/sol.py)
+- [양꼬치](programmers/양꼬치/sol.py)
